@@ -52,6 +52,8 @@ Screenshots
 **Prediction:**
 
 ![image](https://user-images.githubusercontent.com/92853376/152312323-0e664ff4-e5ab-48f1-a94d-f190ae6d9ad8.png)
+![image](https://user-images.githubusercontent.com/24864663/156436752-dbfd50f8-8c1c-47f0-a274-85c98f817c5f.PNG)
+![image](https://user-images.githubusercontent.com/24864663/156436759-f1b69608-47cb-4c3e-80ef-57c6aaf5b1f5.PNG)
 
 
 ## Algorithms used :

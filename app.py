@@ -12,6 +12,8 @@ loaded_model = pickle.load(open(filename, 'rb'))
 df = pd.read_csv("Data/Clustered_Customer_Data.csv")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
+st.set_page_config(page_title='Mushroom Classification')
+
 st.markdown(
         f"""
          <style>

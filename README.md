@@ -56,6 +56,9 @@ Screenshots
 ![PRED-1](https://user-images.githubusercontent.com/24864663/156437402-234f57f7-2862-476c-a395-bb22b53c5976.PNG)
 ![PRED-2](https://user-images.githubusercontent.com/24864663/156437414-6bd4c8d8-cdea-4dad-b054-13357fffed4a.PNG)
 
+## Summary for the Prediction
+
+Output will be the Cluster number along with the characteristic of the cluster feature that it belongs to  
 
 ## Algorithms used :
 In this dataset I have used three clustering algorithm to perform segmentation.These algorithms are given below.

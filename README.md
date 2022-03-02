@@ -47,7 +47,7 @@ Screenshots
 ====================================
 **Homepage interface:**
 
-![image](https://user-images.githubusercontent.com/92853376/152312227-bf8d75e1-5169-4669-af01-a46c3a58fcf7.png)
+![image](https://user-images.githubusercontent.com/24864663/156436706-d42fbb3b-c124-44e4-a93c-a44be06c96b3.PNG)
 
 **Prediction:**
 

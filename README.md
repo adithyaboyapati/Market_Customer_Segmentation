@@ -48,12 +48,13 @@ Screenshots
 **Homepage interface:**
 
 ![image](https://user-images.githubusercontent.com/24864663/156436706-d42fbb3b-c124-44e4-a93c-a44be06c96b3.PNG)
+![image](https://user-images.githubusercontent.com/24864663/156436752-dbfd50f8-8c1c-47f0-a274-85c98f817c5f.PNG)
+![image](https://user-images.githubusercontent.com/24864663/156436759-f1b69608-47cb-4c3e-80ef-57c6aaf5b1f5.PNG)
 
 **Prediction:**
 
-![image](https://user-images.githubusercontent.com/92853376/152312323-0e664ff4-e5ab-48f1-a94d-f190ae6d9ad8.png)
-![image](https://user-images.githubusercontent.com/24864663/156436752-dbfd50f8-8c1c-47f0-a274-85c98f817c5f.PNG)
-![image](https://user-images.githubusercontent.com/24864663/156436759-f1b69608-47cb-4c3e-80ef-57c6aaf5b1f5.PNG)
+![PRED-1](https://user-images.githubusercontent.com/24864663/156437402-234f57f7-2862-476c-a395-bb22b53c5976.PNG)
+![PRED-2](https://user-images.githubusercontent.com/24864663/156437414-6bd4c8d8-cdea-4dad-b054-13357fffed4a.PNG)
 
 
 ## Algorithms used :
